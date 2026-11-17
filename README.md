@@ -1,2 +1,3 @@
-# declanprewa-cpu.github.io
-Personal website for Declan Rewa
+# Declan Rewa
+
+Personal website: https://declanrewa.github.io/
